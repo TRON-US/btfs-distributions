@@ -1,0 +1,4 @@
+go version go1.14.4 linux/amd64
+git sha of code: 26e2584122aa78161269e3deac12f0a0437542e8
+Linux Laptop 5.6.16.a-1-hardened #1 SMP PREEMPT Wed, 03 Jun 2020 22:18:04 +0000 x86_64 GNU/Linux
+built on Tue 09 Jun 2020 10:44:15 AM PDT

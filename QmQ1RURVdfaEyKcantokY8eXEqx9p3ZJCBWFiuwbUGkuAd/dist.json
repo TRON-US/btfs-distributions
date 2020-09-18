@@ -1,0 +1,106 @@
+{
+  "id": "fs-repo-migrations",
+  "version": "v1.6.3",
+  "releaseLink": "fs-repo-migrations/v1.6.3",
+  "name": "fs-repo-migrations",
+  "owner": "ipfs",
+  "description": "fs-repo-migrations is a tool for migrating IPFS storage repositories to newer versions.",
+  "date": "June 09, 2020",
+  "platforms": {
+    "darwin": {
+      "name": "darwin Binary",
+      "archs": {
+        "386": {
+          "link": "/fs-repo-migrations_v1.6.3_darwin-386.tar.gz",
+          "cid": "QmdKQe3kmhW9CvyEdGKL3kTdw3ZtmA7MY5QWHrNSFVQvQq",
+          "sha512": "3f73f4c7f3b986cce6c645fcd945c9507a5ad08750835d9dcf0549fad24512eb1984322e234ed8e6f2650eed853fb1bd4eb4e594dbe0bb6479dd6495778160b7"
+        },
+        "amd64": {
+          "link": "/fs-repo-migrations_v1.6.3_darwin-amd64.tar.gz",
+          "cid": "Qma2trcuRu24muByzoVr54aDJjvvL4gG2fMPHSbk1u62jq",
+          "sha512": "ba784c318110c61afc8a337e209c70714af31c2b95cf3530c338b3c1170f7d3d538f8198103c87ce913a97c47937f278fa8eb3251741ba0965ca28814b941b52"
+        }
+      }
+    },
+    "freebsd": {
+      "name": "freebsd Binary",
+      "archs": {
+        "386": {
+          "link": "/fs-repo-migrations_v1.6.3_freebsd-386.tar.gz",
+          "cid": "QmXcm8H85xemj86yv8LeaZNw1zvU4RNKffwWRoyPsyE3cS",
+          "sha512": "747a68a9d43faa8b0c1df0e4c47d3e17e8f197855437df3594c3f121c1ecb5f4935a3ffed81b7b4a59a93f3f87af056fb9a4f5a85f0d5a63c73364a360679df1"
+        },
+        "amd64": {
+          "link": "/fs-repo-migrations_v1.6.3_freebsd-amd64.tar.gz",
+          "cid": "QmPsib7mB67JstSetwCi6iaLCSbT2FAErxFuAUYC2uvg2f",
+          "sha512": "03ac37bc15c2b2cd3dfd9de9a14b06052c4182752fefc0f171614b5e7d3c4424d11f873d22279bbe94f409222030937e672d2f9a69a2f8d226aed7078576c3a2"
+        },
+        "arm": {
+          "link": "/fs-repo-migrations_v1.6.3_freebsd-arm.tar.gz",
+          "cid": "QmUrn43EuKgnx4ZZb5YeZeUwAgvRUxZ8ZW1yK4BALAhmhM",
+          "sha512": "ccf2918c560492ef2b8e8169c3074fd9cd6db56b947b6e1d7e064be18ddc2835632254599a3331a1562818d5f846e4844f92bf95d052cbda908b25d2cb86bd35"
+        }
+      }
+    },
+    "openbsd": {
+      "name": "openbsd Binary",
+      "archs": {
+        "386": {
+          "link": "/fs-repo-migrations_v1.6.3_openbsd-386.tar.gz",
+          "cid": "QmZkRryrNmXLdzuv8gUBhjaxQLUNvobaAJmCZ7Q9F12sog",
+          "sha512": "e841d5c447904bd370e71bfa8ef8a3463cb1d56cb168a7be5bed7d7a184b9ef774a602610fabd528ee635d27393da7749c771edbb6cd5cad354ba5902a34a4f7"
+        },
+        "amd64": {
+          "link": "/fs-repo-migrations_v1.6.3_openbsd-amd64.tar.gz",
+          "cid": "QmZ9trmwdPMHdauqFNGcxApt6TcmzTxNSEqR4bwPFwSxxN",
+          "sha512": "18f32f2669625705c7219a3ab14b82cef47959e2f3d39e4dd92d2845603e13b1d4b622a241e537cb1f2be73ac35434229b5f64bbfda1950dfa88a7894197248e"
+        },
+        "arm": {
+          "link": "/fs-repo-migrations_v1.6.3_openbsd-arm.tar.gz",
+          "cid": "QmTawJFxn28k9Zfu6UevVaE4zRJmtnX5c994dy5NZHyiAv",
+          "sha512": "9949e5795eaa64f72666370a2795b56f14447967392afc7654abf44084beeb0f94b8f606721959b04e22a44b3bf0055a8e04717aad7f40621fcb7d3e430f3867"
+        }
+      }
+    },
+    "linux": {
+      "name": "linux Binary",
+      "archs": {
+        "386": {
+          "link": "/fs-repo-migrations_v1.6.3_linux-386.tar.gz",
+          "cid": "QmY2XNtvbfRFK9TQUsTKYfMkseQw5ioqj1wh4wkCfPyby9",
+          "sha512": "f047b09446e41cc5942777d511906a21ea3e1f891628b234033247d0f34f1d38776046f6b09d5dbd316d993d5fef401ed1021f1a3936acd09eee831597f121f7"
+        },
+        "amd64": {
+          "link": "/fs-repo-migrations_v1.6.3_linux-amd64.tar.gz",
+          "cid": "QmVTtzC7vgbLNWJh9fzjDCH7T4Qd4wLfB7iJqjrVo8GAJ4",
+          "sha512": "87c63948e4dbd9af44f63ec18c0709c137d4216b00ac8cb58698135cbc26356cbacf61e67507200a843ec949f9d7ab2be7a0233bd8efee2fb0857bff6b632fd3"
+        },
+        "arm": {
+          "link": "/fs-repo-migrations_v1.6.3_linux-arm.tar.gz",
+          "cid": "QmWwv61zkBvMMyQRiZnFfsKZZnYmSrJr98kqyT2tV2sFed",
+          "sha512": "c2c6fe447ab5c6fbeb3ee96d2115719ed25be7791b10d3ac469e494720a1d560b59c99cc17379d5bd39db05ed5cad40f873b7bbb258b2eaa3828ace03aafe9ab"
+        },
+        "arm64": {
+          "link": "/fs-repo-migrations_v1.6.3_linux-arm64.tar.gz",
+          "cid": "QmXSfjGXvNtyTEMe9Q86xvwFzfLLVP2NagJdeJ8Fwf1swf",
+          "sha512": "970593f7af1dd44cc0a7857eb3e62aad2e145feb7039b7339c2f66192c2ee50defdb3ce811602f3adec01ac631aacf86e0991ae697c145d2bead902496a5ff36"
+        }
+      }
+    },
+    "windows": {
+      "name": "windows Binary",
+      "archs": {
+        "386": {
+          "link": "/fs-repo-migrations_v1.6.3_windows-386.zip",
+          "cid": "QmR6Qpy9r8WCajZ4EnEYDfjGiPB3iFnkddqWbvLom8pKFN",
+          "sha512": "19c5a9a1ab3ba4328e12deb0c5f76f047ad2292416ccb5950325484d831c3d08c95136582b30c91840a06bf56f2879d92a247722d1a5b7ebe74207f43c7186ae"
+        },
+        "amd64": {
+          "link": "/fs-repo-migrations_v1.6.3_windows-amd64.zip",
+          "cid": "QmXiPucSJKnZPL3yrxDFDCsZbyxr7tfFLjjJC7z3YLb6YL",
+          "sha512": "c01c524e88473b13c0e9fedca209d02729f241a0f672f6cb16def707e5750db963c4cb5add7f570e98936e1fc8d38f2cc5b8119bb7368fa6c868818ca819c241"
+        }
+      }
+    }
+  }
+}
